@@ -1,0 +1,3 @@
+﻿  Main.cpp
+\\Mac\Home\Documents\1st Year\Game Programming\Week 3\Visual Studio projects\Cinema\Cinema\Main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Cinema.vcxproj -> \\Mac\Home\Documents\1st Year\Game Programming\Week 3\Visual Studio projects\Cinema\Debug\Cinema.exe
